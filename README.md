@@ -1,8 +1,14 @@
 🛒 Grocery Shopping and Door-to-Door Delivery System
-A comprehensive Java-based application designed to simplify grocery shopping and delivery. 🌟 This system allows customers to order groceries online, supports digital payments, and ensures seamless doorstep delivery, catering to urban and rural needs alike. 🚚
+A comprehensive Java-based application designed to simplify grocery shopping and delivery. 🌟This system allows customers to order groceries online, supports digital payments, and ensures seamless doorstep delivery for urban and rural needs alike. 🚚
 
 🌟 Overview
-In today’s fast-paced world, convenience is essential. This platform eliminates the need for physical store visits by integrating customer interfaces, supermarket inventory management, agent coordination, and digital wallet payments. Ideal for busy professionals, elderly individuals, and remote areas, it’s a practical solution inspired by services like Jumia Food and Glovo. 🌍
+
+In today’s fast-paced world, convenience is essential.
+This platform eliminates the need for physical store visits.
+Integrates customer interfaces, supermarket inventory management, agent coordination, and digital wallet payments.
+Ideal for busy professionals, elderly individuals, and remote areas.
+A practical solution inspired by services like Jumia Food and Glovo. 🌍
+
 
 🎯 Objectives
 
@@ -61,34 +67,41 @@ Invoice: Order ID, Agent ID, Supermarket IDs, Items, Total, Timestamp
 
 📦 Installation
 
-Clone the repository:  git clone <repository-url>
+Clone the repository:  git clone https://github.com/TsegayIS122123/GroceryShoppingApp
 
 
-Set up SQL Server and create the database with the provided schema.  
-Import the project into a Java IDE (e.g., IntelliJ or Eclipse).  
-Configure the database connection in the source code.  
+Set up SQL Server and create the database with the provided schema.
+Import the project into a Java IDE (e.g., IntelliJ or Eclipse).
+Configure the database connection in the source code.
 Run the main .java file to launch the application.
 
 
 🚦 Usage
 
-Register as a customer, agent, or supermarket owner.  
-Navigate the Swing GUI to explore features like ordering, payment, and tracking.  
+Register as a customer, agent, or supermarket owner.
+Navigate the Swing GUI to explore features like ordering, payment, and tracking.
 Follow on-screen prompts for a smooth experience.
 
 
 📑 API Documentation
-N/A (This is a desktop application; refer to the GUI for functionality details).  
+
+N/A (This is a desktop application; refer to the GUI for functionality details).
+
 
 📜 License
+
 This project is licensed under the MIT License – see the LICENSE file for details. 📝
 
+
 🤝 Contributing
-Contributions are welcome! Fork the repository, submit issues, or create pull requests to improve the project. 🌱 Let’s enhance this solution together!  
+
+Contributions are welcome! Fork the repository, submit issues, or create pull requests to improve the project.
+Let’s enhance this solution together! 🌱
+
 
 📬 Contact
-For support or inquiries:  
+
 GitHub: TsegayIS122123
-📧 Email: tsegayassefa27@gmail.com
-💼 LinkedIn: linkedin.com/in/tsegay-assefa-95a397336
-🌐 Portfolio: tsegayassefa.github.io
+Email: tsegayassefa27@gmail.com
+LinkedIn: linkedin.com/in/tsegay-assefa-95a397336
+Portfolio: tsegayassefa.github.io
