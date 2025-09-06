@@ -1,14 +1,8 @@
-🛒 Grocery Shopping and Door-to-Door Delivery System
-A comprehensive Java-based application designed to simplify grocery shopping and delivery. 🌟This system allows customers to order groceries online, supports digital payments, and ensures seamless doorstep delivery for urban and rural needs alike. 🚚
+🛒 Grocery Shopping and Door-to-Door Delivery System 
+A comprehensive Java-based application designed to simplify grocery shopping and delivery, empowering customers with digital payments and efficient doorstep service for urban and rural communities alike. 🌟 This system revolutionizes access to groceries, ensuring convenience and reliability for all. 🚚
 
 🌟 Overview
-
-In today’s fast-paced world, convenience is essential.
-This platform eliminates the need for physical store visits.
-Integrates customer interfaces, supermarket inventory management, agent coordination, and digital wallet payments.
-Ideal for busy professionals, elderly individuals, and remote areas.
-A practical solution inspired by services like Jumia Food and Glovo. 🌍
-
+In today’s fast-paced world, convenience is essential. This platform eliminates the need for physical store visits by integrating customer interfaces, supermarket inventory management, agent coordination, and digital wallet payments. Ideal for busy professionals, elderly individuals, and remote areas, it’s a practical solution inspired by services like Jumia Food and Glovo. 🌍
 
 🎯 Objectives
 
@@ -67,7 +61,7 @@ Invoice: Order ID, Agent ID, Supermarket IDs, Items, Total, Timestamp
 
 📦 Installation
 
-Clone the repository:  git clone https://github.com/TsegayIS122123/GroceryShoppingApp
+Clone the repository:  git clone https://github.com/TsegayIS122123/GroceryShoppingApp.git
 
 
 Set up SQL Server and create the database with the provided schema.
